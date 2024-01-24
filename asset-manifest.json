@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Borodin1/tips-and-tricks/static/css/main.72628a8a.chunk.css",
-    "main.js": "/Borodin1/tips-and-tricks/static/js/main.2d9c8c9c.chunk.js",
-    "main.js.map": "/Borodin1/tips-and-tricks/static/js/main.2d9c8c9c.chunk.js.map",
-    "runtime-main.js": "/Borodin1/tips-and-tricks/static/js/runtime-main.1b6a8b2c.js",
-    "runtime-main.js.map": "/Borodin1/tips-and-tricks/static/js/runtime-main.1b6a8b2c.js.map",
-    "static/css/2.e434f813.chunk.css": "/Borodin1/tips-and-tricks/static/css/2.e434f813.chunk.css",
-    "static/js/2.0a6bf047.chunk.js": "/Borodin1/tips-and-tricks/static/js/2.0a6bf047.chunk.js",
-    "static/js/2.0a6bf047.chunk.js.map": "/Borodin1/tips-and-tricks/static/js/2.0a6bf047.chunk.js.map",
-    "index.html": "/Borodin1/tips-and-tricks/index.html",
-    "static/css/2.e434f813.chunk.css.map": "/Borodin1/tips-and-tricks/static/css/2.e434f813.chunk.css.map",
-    "static/css/main.72628a8a.chunk.css.map": "/Borodin1/tips-and-tricks/static/css/main.72628a8a.chunk.css.map",
-    "static/js/2.0a6bf047.chunk.js.LICENSE.txt": "/Borodin1/tips-and-tricks/static/js/2.0a6bf047.chunk.js.LICENSE.txt"
+    "main.css": "/tips-and-tricks/static/css/main.72628a8a.chunk.css",
+    "main.js": "/tips-and-tricks/static/js/main.2d9c8c9c.chunk.js",
+    "main.js.map": "/tips-and-tricks/static/js/main.2d9c8c9c.chunk.js.map",
+    "runtime-main.js": "/tips-and-tricks/static/js/runtime-main.50d906ea.js",
+    "runtime-main.js.map": "/tips-and-tricks/static/js/runtime-main.50d906ea.js.map",
+    "static/css/2.e434f813.chunk.css": "/tips-and-tricks/static/css/2.e434f813.chunk.css",
+    "static/js/2.119fff68.chunk.js": "/tips-and-tricks/static/js/2.119fff68.chunk.js",
+    "static/js/2.119fff68.chunk.js.map": "/tips-and-tricks/static/js/2.119fff68.chunk.js.map",
+    "index.html": "/tips-and-tricks/index.html",
+    "static/css/2.e434f813.chunk.css.map": "/tips-and-tricks/static/css/2.e434f813.chunk.css.map",
+    "static/css/main.72628a8a.chunk.css.map": "/tips-and-tricks/static/css/main.72628a8a.chunk.css.map",
+    "static/js/2.119fff68.chunk.js.LICENSE.txt": "/tips-and-tricks/static/js/2.119fff68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b6a8b2c.js",
+    "static/js/runtime-main.50d906ea.js",
     "static/css/2.e434f813.chunk.css",
-    "static/js/2.0a6bf047.chunk.js",
+    "static/js/2.119fff68.chunk.js",
     "static/css/main.72628a8a.chunk.css",
     "static/js/main.2d9c8c9c.chunk.js"
   ]
